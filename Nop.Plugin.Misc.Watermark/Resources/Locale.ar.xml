@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language Name="Arabic">
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkTextEnable">
+    <Value>التفعيل كنص</Value>
+  </LocaleResource>  
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkText">
+    <Value>النص</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.Text">
+    <Value>النص</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkText.Hint">
+    <Value>سيتم عرض النص الذي أدخلته على كل الصور</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkFont">
+    <Value>الخط</Value>
+  </LocaleResource>  
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkFont.Hint">
+    <Value>حدد خط النص الذي ترغب به</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkTextColor">
+    <Value>اللون</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkTextColor.Hint">
+    <Value>حدد لون النص الذي ترغب به</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkTextRotatedDegree">
+    <Value>الزاوية</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkTextRotatedDegree.Hint">
+    <Value>القيمة الافتراضية 0 (مما يجعل النص يعرض بشكل أفقي). غير الزاوية لتغيير زاوية عرض النص على الصورة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkPictureEnable">
+    <Value>تفعيل كصورة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.Picture">
+    <Value>الصورة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.Picture.Hint">
+    <Value>رفع الصورة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.Size">
+    <Value>نسبة الحجم %</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.SizeErrorMessage">
+    <Value>أدخل قيمة من {0} إلى {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.Size.Hint">
+    <Value>حدد حجم النسب كنسبة لحجم الصورة % (1-100)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkPosition">
+    <Value>الموضع</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkPosition.Hint">
+    <Value>حدد مكان تموضع الصورة أو النص</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.TopLeftCornerPosition">
+    <Value>فوق يسار</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.TopCenterPosition">
+    <Value>فوق وسط</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.TopRightCornerPosition">
+    <Value>فوق يمين</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.CenterLeftPosition">
+    <Value>وسط يسار</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.CenterPosition">
+    <Value>وسط</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.CenterRightPosition">
+    <Value>وسط يمين</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.BottomLeftCornerPosition">
+    <Value>تحت يسار</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.BottomCenterPosition">
+    <Value>تحت وسط</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.BottomRightCornerPosition">
+    <Value>تحت يمين</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.CommonSettings">
+    <Value>إعدادات عامة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkOpacity">
+    <Value>الشفافية</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkOpacityErrorMessage">
+    <Value>حدد قيمة من {0} إلى {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkOpacity.Hint">
+    <Value>القيمة الافتراضية 0.5 (تظهر بشكل شفاف). غير القيمة للتحكم بنشبة الشفافية (0 - شفاف, 1 - غير شفاف)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.ApplyOnProductPictures">
+    <Value>ضع العلامة فوق صور المنتجات</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.ApplyOnCategoryPictures">
+    <Value>ضع العلامة فوق صور التصنيفات</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.ApplyOnManufacturerPictures">
+    <Value>ضع العلامة فوق صور الشركات</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkMinimumImageWidth">
+    <Value>الحد الأدنى لعرض الصورة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkMinimumImageWidth.Hint">
+    <Value>أدخل الحد الأدنى لعرض الصورة. بحيث يتم عرض العلامة على الصور الأكبر من هذه القيمة. إذا كان العرض = 0, فإن العلامة ستعرض على كل الصور</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkMinimumImageHeight">
+    <Value>الحد الأدنى لارتفاع الصورة</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Misc.Watermark.WatermarkMinimumImageHeight.Hint">
+    <Value>أدخل الحد الأدنى لارتفاع الصورة. بحيث يتم ارتفاع العلامة على الصور الأكبر من هذه القيمة. إذا كان الارتفاع = 0, فإن العلامة ستعرض على كل الصور</Value>
+  </LocaleResource>
+</Language>
